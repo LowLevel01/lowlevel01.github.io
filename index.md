@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I'm Zakariaa Hamid, a cybersecurity student at INPT, Morocco. I am also a CTF player. I love malware analysis and exploit development. I'll be writing about a variety of subjects in the field of cybersecurity.
