@@ -1,5 +1,5 @@
 ## Fast Multiplication: Karatsuba's Algorithm
-
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
   Since this is my first blog ever, I chose to write about a simple and interesting subject which is the multiplication of integers. Is there a faster way to multiply two integers than the classical method?<br />
 
   The answer is actually yes and the way is <strong>Karatsuba's algorithm</strong>.<br />
