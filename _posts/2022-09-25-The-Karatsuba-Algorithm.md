@@ -7,14 +7,15 @@
   Computer scientists consider the complexity of multiplication to be <strong>O(1)</strong> which is just a simplification for small numbers.<br />
   <h3>I. The classical method of multiplication:</h3>
   <br>
-  The usual way of multiplication has a complexity of <strong>O(n²)</strong> but the algorithm we're gonna learn about has a complexity of <strong>
+  The usual way of multiplication has a complexity of <strong>O(n²)</strong> but the algorithm we're gonna learn about has a complexity of 
  
 $$
   \begin{align}
   O(n^{log_2(3)}) = O(n^{1.58})
   \end{align}
 $$
-</strong> <br />
+
+ <br />
 
 Let's consider two <strong>n</strong>-bit integers <strong>x</strong> and <strong>y</strong> written in base b, and consider for a while that <strong>n</strong> is even.<br>
 Let's consider two entities <strong>H</strong> and <strong>L</strong> such that <strong>H</strong> represents the higher bit being the bigger part (the left one) and <strong>L</strong> the lower bit (the right one)
